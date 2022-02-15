@@ -10,7 +10,7 @@
 # uranium Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
-![XBOT-MUSIC LOGO](https://telegra.ph/file/d3f62131358c475dda9ae.jpg)
+![XBOT-MUSIC LOGO](https://telegra.ph/file/2649d88fdd75a5fe34956.jpg)
 ## Deployment
 
 > Click on buttons to expand!
