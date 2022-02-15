@@ -1,4 +1,4 @@
-# XBOT-MUSIC
+# uranium-MUSIC
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
@@ -7,7 +7,7 @@
     <a href="https://t.me/BotMusicUpdates"> Xbot Updates </a> 
 </p>
     
-# Xbot Music Bot
+# uranium Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ![XBOT-MUSIC LOGO](https://telegra.ph/file/d3f62131358c475dda9ae.jpg)
@@ -81,9 +81,9 @@ view files `config.py`
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/BotMusicUpdates)
-- [Telegram Support Group](https://t.me/BotMusicChat)
-- [Contact Owner](https://t.me/farizsj)
+- [Telegram Channel](https://t.me/ABOUT_URANIUM_XD)
+- [Telegram Support Group](https://t.me/LOVERS_GALAXY)
+- [Contact Owner](https://t.me/THE_URANIUM_OP)
 
 
 ## License
