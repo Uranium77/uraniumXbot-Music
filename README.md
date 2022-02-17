@@ -3,8 +3,8 @@
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/Boot_Musicbot"> XBOT-MUSIC </a> •
-    <a href="https://t.me/BotMusicUpdates"> Xbot Updates </a> 
+    <a href="https://t.me/ABOUT_URANIUM_XD"> XBOT-MUSIC </a> •
+    <a href="https://t.me/lovers_galaxy"> Xbot Updates </a> 
 </p>
     
 # uranium Music Bot
